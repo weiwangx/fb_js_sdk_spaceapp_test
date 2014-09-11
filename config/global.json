@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "SpaceTest": {
+            "applicationId": "M1jhR9gtrPjKgfph0kT7jStDOlJwajSsOTnIJFNu", 
+            "masterKey": "v9MGhdGzePtfS61LQuolceZ8q02iYfwLVjGHG9IS"
+        }, 
+        "_default": {
+            "link": "SpaceTest"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
